@@ -17,3 +17,5 @@ Udemy를 통한 pandas, numpy 공부
 1. Pandas
 2. Numpy
 3. 회귀 이론
+4. 머신러닝 모델
+
