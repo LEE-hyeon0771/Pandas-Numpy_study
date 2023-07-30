@@ -8,6 +8,7 @@ Udemy를 통한 pandas, numpy 공부
 2. Pandas-Index-Object
 3. Pandas-Series
 4. DataFrame-Basics
+5. Matplotlib
 
 ## 개발언어 및 환경
 ![python](https://user-images.githubusercontent.com/84756586/209506129-fd141955-dcf5-4061-a042-93848ea4cddb.png)
